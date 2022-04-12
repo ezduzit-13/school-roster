@@ -1,0 +1,26 @@
+body{
+  background-color: black;
+  color:white;
+}
+
+.delete-button{
+  width: 10vw;
+  height: 4vh;
+  background-color: rgb(136, 15, 15);
+  color: black;
+  font-size: 1rem;
+  border-radius: 20px;
+}
+.student-name{
+  font-size: 6rem;
+}
+
+table, td, th {
+  border: 1px solid;
+  border-color: white;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
